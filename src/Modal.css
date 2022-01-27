@@ -1,0 +1,11 @@
+input {
+  width: 70%;
+  margin: 4px;
+  border:solid 1.5px #ACACAC;
+  border-radius: 3px;
+  outline: #ACACAC solid 1.5px ;
+}
+p{
+  display: inline;
+  font-size: 2px;
+}
